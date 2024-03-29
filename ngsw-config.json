@@ -29,8 +29,8 @@
   ],
   "dataGroups": [
     {
-      "name": "api-call",
-      "urls": ["https://dummy.restapiexample.com/api/v1/employees"],
+      "name": "posts",
+      "urls": ["https://jsonplaceholder.typicode.com/posts"],
       "cacheConfig": {
         "maxAge": "6h",
         "maxSize": 10,  
